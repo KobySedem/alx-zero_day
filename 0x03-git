@@ -1,11 +1,1 @@
-cd /alx-zero_day
-mkdir 0x03-git
-cd 0x03-git
-touch README.md
-nano README.md
-# 0x03-git
 
-This directory contains my work for the 0x03-git project.
-git add .
-git commit -m "Add 0x03-git directory and README.md file"
-git push origin master
